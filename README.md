@@ -7,4 +7,5 @@
 
 ## UILabel數字動畫
 ![UILabel-Animation](resource/LabelNumbersAnimation.gif)
+
 [Swift實現UILabel數字動畫](https://ios.devdon.com/archives/507)
